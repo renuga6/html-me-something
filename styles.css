@@ -9,3 +9,10 @@ p.ex1 {
 #ex0 {
     padding:25px;
 }
+
+img {
+    border: 2px inset cyan;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
